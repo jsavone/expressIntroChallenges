@@ -1,0 +1,24 @@
+{
+  "name": "expressIntroChallenges",
+  "version": "1.0.0",
+  "description": "Create a GET route for \"/hello\" that returns the response \"Hello!\".",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsavone/expressIntroChallenges.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsavone/expressIntroChallenges/issues"
+  },
+  "homepage": "https://github.com/jsavone/expressIntroChallenges#readme"
+}
